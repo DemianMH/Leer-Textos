@@ -1,0 +1,10 @@
+Letras: a b c d e f g h i j k l m
+Numeros: 123456789
+Mayusculas: A B C D E F G H I J K L M
+Espacios en blanco:1     2       3
+Signos de puntiacion: .,;:!?¿..`"
+Simbolos especiales: ☺☻♥♦♣♠•◘○
+Simbolos Aritmeticos: +*/-±
+Plabras: Hola Mundo Bienvenidos al Imalaya
+Lineas: ╔══════
+
